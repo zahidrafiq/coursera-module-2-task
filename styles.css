@@ -37,6 +37,7 @@
             }
             body{
                 margin-left: 2.5%;
+                background-color: burlywood;
             }
             @media screen and (min-width: 992px) {
                 .menu-box-width{
